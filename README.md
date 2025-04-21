@@ -19,6 +19,8 @@ It is a simple terminal-based project that continuously updates in real time.
 - Hijri (Islamic) date and month (calculated using approximate algorithm)
 - Clean terminal interface
 - Cross-platform compatibility (with minor adjustments for Windows/Linux)
+## 🎞 Sample Output
+![output](https://github.com/user-attachments/assets/809ea131-0d37-4f43-9800-a0fbc08a219b)
 
 ---
 
